@@ -1,5 +1,5 @@
 # USB-Mouse-Driver
-Operating System Project: USB Mouse Driver  
+Operating System Project (HUST): USB Mouse Driver  
 # Implementation
 This is an implementation of a custom Linux device driver. It loads usb mouse driver into Kernel module, and reads mouse click (a left click) to change the brightness of screen if device driver successfully is loaded into Kernel module. A left click decreases brightness.
 
